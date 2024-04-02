@@ -120,7 +120,6 @@ C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debu
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.csproj.CoreCompileInputs.cache
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
-C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.sourcelink.json
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Dev\ProjetosC#\APICSharp-Produtos-Categorias\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets\msbuild.ApiCatalogo.Microsoft.AspNetCore.StaticWebAssets.props

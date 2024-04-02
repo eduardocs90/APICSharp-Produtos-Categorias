@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\migrations\\20240328182952_popularprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20240328182952_popularprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\migrations\\20240328182400_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20240328182400_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|c:\\dev\\projetosc#\\apicsharp-produtos-categorias\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A5F1A12-0B29-4817-BA47-31C0AC6B6A64}|ApiCatalogo\\ApiCatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ApiCatalogo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:35:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "ApiCatalogo\\DataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:31:21.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Program.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Program.cs",
+              "RelativeToolTip": "ApiCatalogo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:22:20.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240328182952_PopularProdutos.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Migrations\\20240328182952_PopularProdutos.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Migrations\\20240328182952_PopularProdutos.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Migrations\\20240328182952_PopularProdutos.cs",
+              "RelativeToolTip": "ApiCatalogo\\Migrations\\20240328182952_PopularProdutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:30:07.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240328182400_PopularCategorias.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Migrations\\20240328182400_PopularCategorias.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Migrations\\20240328182400_PopularCategorias.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Migrations\\20240328182400_PopularCategorias.cs",
+              "RelativeToolTip": "ApiCatalogo\\Migrations\\20240328182400_PopularCategorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:24:05.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCatalogo\\appsettings.json",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\appsettings.json",
+              "RelativeToolTip": "ApiCatalogo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T18:01:44.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Models\\Produto.cs",
+              "RelativeToolTip": "ApiCatalogo\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:10:21.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiCatalogo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\APICSharp-Produtos-Categorias\\ApiCatalogo\\ApiCatalogo\\Models\\Categoria.cs",
+              "RelativeToolTip": "ApiCatalogo\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:05:54.278Z"
             }
           ]
         }
